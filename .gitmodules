@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/SCHRODlNGER/Food_Service_FrontEnd
+[submodule "server/commonService"]
+	path = server/commonService
+	url = https://github.com/SCHRODlNGER/Common-data-service
+[submodule "server/Authentication"]
+	path = server/Authentication
+	url = https://github.com/SCHRODlNGER/Authentication_Service
